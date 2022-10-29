@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600&family=Merriweather+Sans&family=Montserrat:wght@700&display=swap');
+#header 
+{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    padding: 10px;
+    border-radius: 50px;
+    width: 70px;
+    margin: 15px 40px;
+    background: rgba(62, 185, 255, 1);
+    z-index: 10;
+}
+
+#header.faded
+{
+    background: rgba(62, 185, 255, 0.3);
+}
+
+.header-logo
+{
+    height: 50px;
+}
+
+#header-p{
+    font-family: 'Lora', serif;
+    color: #3EB9FF;
+    font-size: 64px;
+    margin: 0;
+    margin-top: 0;
+    text-align: left;
+    padding-top: 16px;
+    margin-left: 140px;
+}
+
+.headerContainer{
+    position: absolute;
+}

@@ -1,0 +1,56 @@
+#video{
+    opacity: 1;
+    z-index: 1;
+  }
+  
+  #video2{
+    opacity: 0;
+    z-index: 2;
+  }
+  #video, #video2{
+    position: absolute;
+  }
+  
+  .fullVideo{
+    height: auto;
+    width: 100vw;
+    transition: opacity 2.0s ease-in; 
+  }
+  
+  html, body {
+    overflow-y:hidden;
+    height:100%;
+  }
+  
+  .next {
+    position: absolute;
+    top: 35px;
+    z-index: 15;
+  }
+  
+  .left{
+    left: 70px;
+  }
+  
+  .right{
+    right: 70px;
+  }
+  
+  .controlArea{
+    width: 440px;
+    height: 140px;
+    position: absolute;
+    background: rgba(62, 185, 255, 0.3);
+    border-radius: 20px;
+    bottom: 60px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    padding: 0 40px;
+  }
