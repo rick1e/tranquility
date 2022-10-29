@@ -1,7 +1,7 @@
 {
   "main.css": "/tranquility/static/css/main.85f10bb6.chunk.css",
-  "main.js": "/tranquility/static/js/main.60903b71.chunk.js",
-  "main.js.map": "/tranquility/static/js/main.60903b71.chunk.js.map",
+  "main.js": "/tranquility/static/js/main.00f51995.chunk.js",
+  "main.js.map": "/tranquility/static/js/main.00f51995.chunk.js.map",
   "static/js/1.3da4e6a8.chunk.js": "/tranquility/static/js/1.3da4e6a8.chunk.js",
   "static/js/1.3da4e6a8.chunk.js.map": "/tranquility/static/js/1.3da4e6a8.chunk.js.map",
   "static/js/2.f6453a21.chunk.js": "/tranquility/static/js/2.f6453a21.chunk.js",
@@ -20,6 +20,6 @@
   "static/media/stream.mp4": "/tranquility/static/media/stream.b7361b26.mp4",
   "static/css/main.85f10bb6.chunk.css.map": "/tranquility/static/css/main.85f10bb6.chunk.css.map",
   "index.html": "/tranquility/index.html",
-  "precache-manifest.c4e3fccfc727349125bfc49956fd882b.js": "/tranquility/precache-manifest.c4e3fccfc727349125bfc49956fd882b.js",
+  "precache-manifest.c8b43073bdd915415a8b42b400f8fd89.js": "/tranquility/precache-manifest.c8b43073bdd915415a8b42b400f8fd89.js",
   "service-worker.js": "/tranquility/service-worker.js"
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "60903b71b750fd1a67f2",
+    "revision": "00f5199532adcd58b293",
     "url": "/tranquility/static/css/main.85f10bb6.chunk.css"
   },
   {
-    "revision": "60903b71b750fd1a67f2",
-    "url": "/tranquility/static/js/main.60903b71.chunk.js"
+    "revision": "00f5199532adcd58b293",
+    "url": "/tranquility/static/js/main.00f51995.chunk.js"
   },
   {
     "revision": "3da4e6a8535dd6d8027b",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/tranquility/static/media/stream.b7361b26.mp4"
   },
   {
-    "revision": "c8e7928b96cbda2d7b1b50f994bf2cda",
+    "revision": "cdceda4e0b1b2e0a8758b504e5138862",
     "url": "/tranquility/index.html"
   }
 ];
